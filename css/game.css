@@ -1,0 +1,177 @@
+p {
+	font-family: sans-serif;
+	color: #ccf2ff;
+}
+
+form {
+	font-family: sans-serif;
+	color: #ccf2ff;
+}
+input[type="submit"] {
+	color: white;
+	background-color: black;
+}
+a {
+	color: orange;
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 14px;
+	font-style: italic;
+}
+.button {
+	float: right;
+	height: 17px;
+	vertical-align: middle;
+	background-color: blue;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 10px;
+	margin-right:3px;
+}
+#navbar {
+	height: 35px;
+	background-color: orange;
+	border-radius: 5px;
+}
+.box {
+	margin: auto;
+	width: 75%;
+	background-color:black;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 5px;
+}
+h1 {
+	text-align: center;
+	color: #b32d00;
+	font-family: cursive;
+	font-size: 50px;
+}
+.login {
+	text-align: center;
+}
+.loser {
+	height: 17px;
+	width:60px;
+	vertical-align: middle;
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-left:45%;
+}
+.gametype {
+	height: 75px;
+	width:100px;
+	vertical-align: middle;
+	background-color: black;
+	border-radius: 5px;
+	text-align: center;
+	margin-left:43%;
+}
+.bedroom {
+	background-image: url("backgrounds/bedroom.jpg");
+	background-size: 100% 100%;
+}
+.bathroom {
+	background-image: url("backgrounds/bathroom.jpg");
+	background-size: 100% 100%;
+}
+.bathFloor {
+	background-image: url("backgrounds/bathroomFloor.jpg");
+	background-size: 100% 100%;
+}
+.drain {
+	background-image: url("backgrounds/alien.png");
+	background-size: 100% 100%;
+}
+.closet {
+	background-image: url("backgrounds/closet.jpg");
+	background-size: 100% 100%;
+}
+.clothes {
+	background-image: url("backgrounds/clothes.jpg");
+	background-size: 100% 100%;
+}
+.boxL {
+	background-image: url("backgrounds/box.jpg");
+	background-size: 100% 100%;
+}
+.livingRoom {
+	background-image: url("backgrounds/tv.jpg");
+	background-size: 100% 100%;
+}
+.kitchen {
+	background-image: url("backgrounds/kitchen.jpg");
+	background-size: 100% 100%;
+}
+.fridge {
+	background-image: url("backgrounds/fridge.jpg");
+	background-size: 100% 100%;
+}
+.counter {
+	background-image: url("backgrounds/food.jpg");
+	background-size: 100% 100%;
+}
+.microwave {
+	background-image: url("backgrounds/microwave.jpg");
+	background-size: 100% 100%;
+}
+.lab {
+	background-image: url("backgrounds/lab.jpg");
+	background-size: 100% 100%;
+}
+.poster {
+	background-image: url("backgrounds/poster.jpeg");
+	background-size: 100% 100%;
+}
+.friend {
+	background-image: url("backgrounds/friend.jpg");
+	background-size: 100% 100%;
+}
+.friendRoom {
+	background-image: url("backgrounds/bed.jpg");
+	background-size: 100% 100%;
+}
+.friendBathroom {
+	background-image: url("backgrounds/mirror.jpg");
+	background-size: 100% 100%;
+}
+.friendCloset {
+	background-image: url("backgrounds/phone.jpg");
+	background-size: 100% 100%;
+}
+.exit {
+	background-image: url("backgrounds/exit.jpg");
+	background-size: 100% 100%;
+}
+.code {
+	background-image: url("backgrounds/code.jpg");
+	background-size: 100% 100%;
+}
+.hallway {
+	background-image: url("backgrounds/vines.jpg");
+	background-size: 100% 100%;
+}
+.ladder {
+	background-image: url("backgrounds/ladder.jpg");
+	background-size: 100% 100%;
+}
+.final {
+	background-image: url("backgrounds/endRoom.jpg");
+	background-size: 100% 100%;
+}
+.end {
+	background-image: url("backgrounds/city.jpg");
+}
+.keyCard {
+	background-image: url("backgrounds/keycard.jpg");
+	background-size: 100% 100%;
+}
+.beginBackground {
+	background-color: #ccf2ff;
+}
+.gameOver {
+	background-image: url("backgrounds/loser.jpg");
+	background-size: 100% 100%;
+}
